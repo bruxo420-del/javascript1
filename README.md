@@ -6,9 +6,9 @@ meu primeiro contato com javascript
 - HTML
 - CSS
 - Java
-## Como Usar? 
+## Como Usar
 git clone https://github.com/bruxo420-del/convite-carol
-| Tecnologias  | Uso |
+| Tecnologias  | Uso | 
 | - - - - - - -| - - |
 |  Git         | Controle de Versão |
 | Markdown     | Documentação       |
