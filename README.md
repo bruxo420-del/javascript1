@@ -6,3 +6,5 @@ meu primeiro contato com javascript
 - HTML
 - CSS
 - Java
+## Como Usar? 
+git clone https://github.com/bruxo420-del/convite-carol
