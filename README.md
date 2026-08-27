@@ -11,6 +11,6 @@ meu primeiro contato com javascript
 git clone https://github.com/bruxo420-del/convite-carol
 ...
 | Tecnologias  | Uso | 
-|- - - - - - --|-----|
+|--------------|-----|
 |  Git         | Controle de Versão |
 | Markdown     | Documentação       |
